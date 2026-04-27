@@ -94,17 +94,23 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajaktaYadav18&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://streak-stats.demolab.com?user=PrajaktaYadav18&theme=tokyonight&hide_border=true&border_radius=10&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff"
+    alt="GitHub Streak"
+    style="border-radius: 12px; box-shadow: 0px 10px 30px rgba(0,0,0,0.4);"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajaktaYadav18&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrajaktaYadav18&theme=tokyonight"
+    alt="GitHub Summary"
+    style="border-radius: 12px; margin-top:10px;"
+  />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
