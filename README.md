@@ -76,21 +76,21 @@ Here are some ideas to get you started:
 ### 🏥 Hospital Management System
 🔹 Java, JSP, Servlet, MySQL  
 🔹 Patient records, billing, reports  
-🔗 https://github.com/your-username/hospital-management  
+ 
 
 ---
 
 ### 🍽️ Mess Management System
 🔹 Advanced Java, JDBC  
 🔹 Meal booking & auto billing  
-🔗 https://github.com/your-username/mess-management  
+  
 
 ---
 
 ### 📝 Notes Keeping App (MERN)
 🔹 MongoDB, Express, React, Node  
 🔹 CRUD operations  
-🔗 https://github.com/your-username/notes-app  
+ 
 
 ---
 
